@@ -1,4 +1,4 @@
-```sql
+```mysql
 CREATE TABLE User (
   userID INT PRIMARY KEY,
   username VARCHAR(100),
